@@ -4,18 +4,155 @@ title: Calendar
 uid: f6a646d2-d8af-2966-ab28-2e071be40c6d
 ---
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Course Introduction  {{< br >}}  {{< br >}}Introduction to GIS  {{< br >}}  {{< br >}}Data Types (In Class)  {{< br >}}  {{< br >}}Basic ArcGIS Tutorial - (Out of Class) |
-| 2 | Quiz - Querying Data on a Map  {{< br >}}  {{< br >}}Spatial Data |
-| 3 | Project Introductions  {{< br >}}  {{< br >}}Map Making in GIS |
-| 4 | Mobile GIS - Planning for Field Work |
-| 5 | Using Map Projections |
-| 6 | Raster Data  {{< br >}}  {{< br >}}DEMs  {{< br >}}  {{< br >}}Spatial Analyst |
-| 7 | Raster Processing  {{< br >}}  {{< br >}}Hydrologic Functions |
-| 8 | Vector Processing  {{< br >}}  {{< br >}}Site Selection Exercise (Vector Analysis) |
-| 9 | Raster Processing  {{< br >}}  {{< br >}}Cost Path Modeling |
-| 10 | Project Work Time |
-| 11 | Project Work Time (cont.) |
-| 12 | Project Presentations |
-| 13 | Final Exam
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Introduction  
+  
+Introduction to GIS  
+  
+Data Types (In Class)  
+  
+Basic ArcGIS Tutorial - (Out of Class)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz - Querying Data on a Map  
+  
+Spatial Data
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Project Introductions  
+  
+Map Making in GIS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Mobile GIS - Planning for Field Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Using Map Projections
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Raster Data  
+  
+DEMs  
+  
+Spatial Analyst
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Raster Processing  
+  
+Hydrologic Functions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Vector Processing  
+  
+Site Selection Exercise (Vector Analysis)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Raster Processing  
+  
+Cost Path Modeling
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Project Work Time
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Project Work Time (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
